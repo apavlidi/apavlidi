@@ -8,7 +8,7 @@ You will possibly hear me often mention words like DRY, SOLID, YAGNI, simplicity
 
 ## How to reach me 📫 
 
-- [Personal](https://apavlidi.github.io/) 
+- [Personal](https://apavlidi.com/) 
 - [Twitter](https://twitter.com/alpavlidi) 
 - [Linkedin](https://www.linkedin.com/in/apavlidi/)
 - [Stackoverflow](https://stackoverflow.com/users/5656255/alexis-pavlidis)
