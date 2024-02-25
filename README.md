@@ -12,5 +12,3 @@ You will possibly hear me often mention words like DRY, SOLID, YAGNI, simplicity
 - [Twitter](https://twitter.com/alpavlidi) 
 - [Linkedin](https://www.linkedin.com/in/apavlidi/)
 - [Stackoverflow](https://stackoverflow.com/users/5656255/alexis-pavlidis)
-
-<a href="https://mentorcruise.com/mentor/alexandrospavlidis/"> <img src="https://cdn.mentorcruise.com/img/banner/navy-mentoring-badge.svg" width="240" alt="MentorCruise"> </a>
